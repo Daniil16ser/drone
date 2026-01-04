@@ -1,0 +1,22 @@
+// public/qgis-data/hot-air-balloon.geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Горячий воздушный шар",
+        "description": "Прокатиться над Нью-Йорком!",
+        "height": 500,
+        "color": "red",
+        "size": 25,
+        "icon": "balloon",
+        "popup": "Нажмите для информации"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060, 40.7128]
+      }
+    }
+  ]
+}
